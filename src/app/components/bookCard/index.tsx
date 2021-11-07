@@ -152,7 +152,7 @@ export function BookCard() {
       </ItemContainer>
       <Marginer direction="horizontal" margin="2em" />
       <Button text="Book Your Ride" />
-      <h1>efef</h1>
+      
     </CardContainer>
   );
 }
